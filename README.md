@@ -22,7 +22,7 @@ There are two idependent Azure tenants, across which we shall try to build authe
 - Use Cross Tenant Private Endpoint to access resources over Private Network (Microsoft Backbone Network), without having any Virtual Network Peering or Mesh Private Connectivity
 - Centralized Azure Private DNS Zone for DNS Resoluation for Cross Tenant DNS resolution to Private Endpoint
 
-    <img src="Images/Cross-Tenant-Access-Azure.jpg" width=75% height=75%>
+    <img src="Images/Cross-Tenant-Access-Azure.jpg" width=85% height=85%>
 
 ## Pre-requisites:
 
